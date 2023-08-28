@@ -1,13 +1,13 @@
-# theatre-system-preview
-System for theatre management
+## theatre-system-preview
+# System for theatre management
 
 This project was developed as part of my bachelor thesis. As the project name suggests, system was developed to offer help to small or midsized theaters with their management problems. Within the system, all the employees can have their account and operate the system under their name. Employees are divided into different roles according to their work position, so each employee can do number of role-specific actions from signing to a shift to organizing theatre performances for a whole month.
 
 For the development were used several technologies. The main technologies include:
-  **Python Django**
-  **PostgreSQL**
-  **HTML & CSS**
-  **Javascript**
+ - **Python Django**
+ - **PostgreSQL**
+ - **HTML & CSS**
+ - **Javascript**
 
 As I intend to continue working on this project in the future, I keep the related code private.
 To offer a preview of this system, several screenshots are attached below.
